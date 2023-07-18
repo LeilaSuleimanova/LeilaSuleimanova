@@ -67,11 +67,10 @@
           <tr>
             <td>
               <div>
-                <summary><a href="https://github.com/LeilaSuleimanova/mesto" target="_blank">Mesto</a>
+                <a href="https://github.com/LeilaSuleimanova/mesto" target="_blank">Mesto</a>
                  <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
                  <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                  <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
-                </summary>
               </div>
             </td>
             <td>✅</td>
@@ -79,7 +78,7 @@
           <tr>
             <td>
                <div>
-                <summary><a href="https://github.com/LeilaSuleimanova/russian-travel" target="_blank">Russian Travel</a></summary>
+                <a href="https://github.com/LeilaSuleimanova/russian-travel" target="_blank">Russian Travel</a>
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </div>
@@ -89,7 +88,7 @@
           <tr>
             <td>
               <div>
-                <summary><a href="https://github.com/LeilaSuleimanova/how-to-learn" target="_blank">How to learn</a></summary>
+                <a href="https://github.com/LeilaSuleimanova/how-to-learn" target="_blank">How to learn</a>
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </div>

@@ -1,5 +1,5 @@
 <table align=center>
-  <td width=350>
+  <td width=350 height=250>
    <div id="header" align="center">
       <img src="https://i.gifer.com/origin/19/19500b4feee92d7092cfc9a472260d00.gif" alt="сoding" width="200"/>
     </div>

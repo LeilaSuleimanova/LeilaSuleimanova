@@ -7,11 +7,11 @@
       Hey, there! 
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
     </h1>
-    <p>:woman_student: Меня зовут Лейла и я начинающий фронтенд разработчик.<p> 
+    <p>: Меня зовут Лейла и я начинающий фронтенд разработчик.<p> 
     <table>
         <tr>
           <td width=200>
-            <p>:mortar_board: Я студентка Яндекс.Практикума. Специальность "Веб-разработчик"<p>
+            <p>:Я студентка Яндекс.Практикума. Специальность "Веб-разработчик"<p>
           </td>
           <td width=100>
             <div align=center>
@@ -20,7 +20,7 @@
           </td>
         </tr>  
     </table>
-    <p>👩‍💻 Мои контакты:<p> 
+    <p> Мои контакты:<p> 
    <div id="badges" align="center">
       <a href="https://t.me/leyla_rosfit">
         <img src="https://img.shields.io/badge/-LeilaSuleimanova-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -62,7 +62,7 @@
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </div>
             </td>
-            <td>✅</td>
+            <td>done</td>
           </tr>
           <tr>
             <td>
@@ -73,7 +73,7 @@
                  <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </div>
             </td>
-            <td>✅</td>
+            <td>done</td>
           </tr>
           <tr>
             <td>
@@ -83,7 +83,7 @@
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </div>
             </td>
-            <td>✅</td>
+            <td>done</td>
           </tr>
           <tr>
             <td>
@@ -93,7 +93,7 @@
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </div>
             </td>
-            <td>✅</td>
+            <td>done</td>
           </tr>
   </td>  
  </tr>

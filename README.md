@@ -1,15 +1,9 @@
 <table align=center>
- <tr>
-  
-    
-  
-  </td>
-  
   <td width=350>
    <div id="header" align="center">
       <img src="https://www.iguides.ru/upload/medialibrary/b97/b97735ac3b9e1c696c07c003a7e05c90.gif" alt="сoding" width="200"/>
     </div>
-    <h1>
+    <h1 align="center">
       Hey, there! 
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
     </h1>
@@ -25,18 +19,8 @@
             </div>
           </td>
         </tr>  
-    </table>
-    <h3>:hammer_and_wrench: Languages and Tools:<h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>   
-      <p>👩‍💻 Мои контакты:<p> 
-   <div id="badges">
+     <p>👩‍💻 Мои контакты:<p> 
+   <div id="badges" align="center">
       <a href="https://t.me/leyla_rosfit">
         <img src="https://img.shields.io/badge/-LeilaSuleimanova-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
@@ -46,6 +30,16 @@
         <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Email"/>
       </a>
     </div>
+    </table>
+    <h3>:hammer_and_wrench: Languages and Tools:<h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>  
   </td>
       
   <td width=250>

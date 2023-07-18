@@ -97,7 +97,7 @@
   </td>  
  </tr>
 </table>
-<h3>:fire: My Stats:</h3>
+<h3>My Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeilaSuleimanova&layout=compact&theme=transparent" title="streak-stats" **alt="streak-stats" width=300/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LeilaSuleimanova&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats" height=165/>

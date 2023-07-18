@@ -4,14 +4,14 @@
     <div id="header">
       <img src="https://www.iguides.ru/upload/medialibrary/b97/b97735ac3b9e1c696c07c003a7e05c90.gif" alt="сoding" width="200"/>
     </div>
-   <div id="badges" align="center">
+   <div id="badges">
       <a href="https://t.me/leyla_rosfit">
         <img src="https://img.shields.io/badge/-LeilaSuleimanova-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
     </div>
    <div id="badges" align="center">
       <a href="mailto:leila_suleymanova@mail.ru">
-        <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
+        <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Email"/>
       </a>
     </div>
   </td>

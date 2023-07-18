@@ -82,11 +82,12 @@
           </tr>
           <tr>
             <td>
-              <details>
+               <details>
                 <summary><a href="https://github.com/LeilaSuleimanova/russian-travel" target="_blank">Russian Travel</a></summary>
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </details>
+              
             </td>
             <td>✅</td>
           </tr>

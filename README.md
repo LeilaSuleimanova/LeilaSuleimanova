@@ -100,43 +100,6 @@
             </td>
             <td>✅</td>
           </tr>
-          
-<!--           <tr>
-            <td>
-              <details>
-                <summary><a href="https://github.com/EvgeniiyaR/plants" target="_blank">Plants</a></summary>
-                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
-                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
-                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
-              </details>
-            </td>
-            <td>done</td>
-          </tr> -->
-<!--           <tr>
-            <td>
-              <details>
-                <summary><a href="https://github.com/EvgeniiyaR/momentum" target="_blank">Momentum</a></summary>
-                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
-                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
-                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
-              </details>
-            </td>
-            <td>done</td>
-          </tr>
-          <tr>
-            <td>
-              <details>
-                <summary><a href="http://a0825699.xsph.ru/" target="_blank">PetShop</a></summary>
-                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
-                <img src="https://img.shields.io/badge/-PHP-darkblue" alt="PHP"/>&nbsp;
-                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
-                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
-              </details>
-            </td> 
-            <td>done</td>
-          </tr> -->
-        </tbody>      
-     </table>
   </td>  
  </tr>
 </table>

@@ -54,13 +54,13 @@
         <tbody>
          <tr>
             <td>
-              <details>
+              <div>
                 <a href="https://github.com/LeilaSuleimanova/react-mesto-auth" target="_blank">Mesto React</a>
                 <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
                 <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
-              </details>
+              </div>
             </td>
             <td>✅</td>
           </tr>

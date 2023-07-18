@@ -1,6 +1,6 @@
 <table align=center>
  <tr>
-  <td align="center">
+  
     
    <p>👩‍💻 Мои контакты:<p> 
    <div id="badges">
@@ -16,7 +16,7 @@
   </td>
   
   <td width=350>
-   <div id="header">
+   <div id="header" align="center">
       <img src="https://www.iguides.ru/upload/medialibrary/b97/b97735ac3b9e1c696c07c003a7e05c90.gif" alt="сoding" width="200"/>
     </div>
     <h1>

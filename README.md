@@ -6,8 +6,10 @@
     </div>
    <div id="badges" align="center">
       <a href="https://t.me/leyla_rosfit">
-        <img src="https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+        <img src="https://img.shields.io/badge/-LeilaSuleimanova-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
       </a>
+    </div>
+   <div id="badges" align="center">
       <a href="mailto:leila_suleymanova@mail.ru">
         <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
       </a>

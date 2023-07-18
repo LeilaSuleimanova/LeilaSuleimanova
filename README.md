@@ -4,8 +4,7 @@
       <img src="https://thumbs.gfycat.com/ScaredFirstIcterinewarbler-size_restricted.gif" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
-      Hey, there! 
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+      Hey, there! 👋
     </h1>
     <p>Меня зовут Лейла и я начинающий фронтенд разработчик.<p> 
     <table>

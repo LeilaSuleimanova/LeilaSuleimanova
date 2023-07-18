@@ -1,7 +1,7 @@
 <table align=center>
   <td width=350>
    <div id="header" align="center">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW93YTdiMHJ4cTF5bG53NnJhdmIzOXB0OTYwem4zYjQxcmg3MTBqZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jcs5oSQJlwcla/giphy.gif" alt="сoding" width="200"/>
+      <img src="https://thumbs.gfycat.com/ScaredFirstIcterinewarbler-size_restricted.gif" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
       Hey, there! 

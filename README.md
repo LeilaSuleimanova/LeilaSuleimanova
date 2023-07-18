@@ -87,7 +87,6 @@
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
               </details>
-              
             </td>
             <td>✅</td>
           </tr>
@@ -101,6 +100,7 @@
             </td>
             <td>✅</td>
           </tr>
+          
 <!--           <tr>
             <td>
               <details>

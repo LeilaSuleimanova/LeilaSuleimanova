@@ -1,7 +1,7 @@
 <table align=center>
   <td width=350>
    <div id="header" align="center">
-      <img src="https://otkritkis.com/wp-content/uploads/2022/07/gjwuq.gif" alt="сoding" width="200"/>
+      <img src="https://i.gifer.com/origin/19/19500b4feee92d7092cfc9a472260d00.gif" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
       Hey, there! 👋

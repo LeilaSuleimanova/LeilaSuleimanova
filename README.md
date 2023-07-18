@@ -1,7 +1,7 @@
 <table align=center>
   <td width=350>
-   <div height=100 id="header" align="center">
-      <img src="https://i.gifer.com/origin/19/19500b4feee92d7092cfc9a472260d00.gif" alt="сoding" width="200"/>
+   <div id="header" align="center">
+      <img height=100 src="https://i.gifer.com/origin/19/19500b4feee92d7092cfc9a472260d00.gif" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
       Hey, there! 

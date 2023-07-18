@@ -4,7 +4,7 @@
       <img height=200 width=300 src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
-      👋 
+     Hey, there 👋 
     </h1>
     <p>:woman_student: Меня зовут Лейла и я начинающий фронтенд разработчик.<p> 
     <table>

@@ -4,7 +4,7 @@
       <img src="https://i.gifer.com/origin/19/19500b4feee92d7092cfc9a472260d00.gif" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
-      Hey, there! 👋
+      Hey, there! 
     </h1>
     <p>Меня зовут Лейла и я начинающий фронтенд разработчик.<p> 
     <table>

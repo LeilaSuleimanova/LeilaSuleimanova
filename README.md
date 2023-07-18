@@ -1,9 +1,7 @@
 <table align=center>
  <tr>
   <td align="center">
-    <div id="header">
-      <img src="https://www.iguides.ru/upload/medialibrary/b97/b97735ac3b9e1c696c07c003a7e05c90.gif" alt="сoding" width="200"/>
-    </div>
+    
    <p>👩‍💻 Мои контакты:<p> 
    <div id="badges">
       <a href="https://t.me/leyla_rosfit">
@@ -18,6 +16,9 @@
   </td>
   
   <td width=350>
+   <div id="header">
+      <img src="https://www.iguides.ru/upload/medialibrary/b97/b97735ac3b9e1c696c07c003a7e05c90.gif" alt="сoding" width="200"/>
+    </div>
     <h1>
       Hey, there! 
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>

@@ -71,10 +71,11 @@
           <tr>
             <td>
               <details>
-                <summary><a href="https://github.com/LeilaSuleimanova/mesto" target="_blank">Mesto</a></summary>
-                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
-                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
-                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
+                <summary><a href="https://github.com/LeilaSuleimanova/mesto" target="_blank">Mesto</a>
+                 <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
+                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
+                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
+                </summary>
               </details>
             </td>
             <td>✅</td>

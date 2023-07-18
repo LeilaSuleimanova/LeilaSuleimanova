@@ -1,7 +1,7 @@
 <table align=center>
   <td width=350>
    <div id="header" align="center">
-      <img src="https://thumbs.gfycat.com/ScaredFirstIcterinewarbler-size_restricted.gif" alt="сoding" width="200"/>
+      <img src="https://otkritkis.com/wp-content/uploads/2022/07/gjwuq.gif" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
       Hey, there! 👋

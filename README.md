@@ -5,7 +5,7 @@
       <img src="https://www.iguides.ru/upload/medialibrary/b97/b97735ac3b9e1c696c07c003a7e05c90.gif" alt="сoding" width="200"/>
     </div>
     <div id="badges" align="center">
-      <a href="https://t.me/@leyla_rosfit>
+      <a href="https://t.me/+79054557465>
         <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
       </a>
       <a href="mailto:leila_suleymanova@mail.ru">
@@ -16,18 +16,18 @@
   
   <td width=350>
     <h1>
-      Hey, there! Привет, я Лейла!
+      Hey, there! 
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
     </h1>
-    <p>:woman_student: I'm a beginner web/frontend developer. Я начинающий фронтенд разработчик.<p> 
+    <p>:woman_student: Меня зовут Лейла и я начинающий фронтенд разработчик.<p> 
     <table>
         <tr>
           <td width=200>
-            <p>:mortar_board: I'm a student of Yandex.Praktikum. Я студентка Яндекс.Практикума по специальности "Веб-разработчик"<p>
+            <p>:mortar_board: Я студентка Яндекс.Практикума. Специальность "Веб-разработчик"<p>
           </td>
           <td width=100>
             <div align=center>
-              <p>Learning progress: </p> <img src="https://progress-bar.dev/85/" alt="progress"/>
+              <p>Learning progress: </p> <img src="https://progress-bar.dev/97/" alt="progress"/>
             </div>
           </td>
         </tr>  
@@ -56,7 +56,7 @@
          <tr>
             <td>
               <details>
-                <summary><a href="https://github.com/LeilaSuleimanova/react-mesto-auth" target="_blank">Mesto React</a></summary>
+                <a href="https://github.com/LeilaSuleimanova/react-mesto-auth" target="_blank">Mesto React</a>
                 <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
                 <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;

@@ -1,7 +1,7 @@
 <table align=center>
   <td width=350>
    <div id="header" align="center">
-      <img src="https://www.iguides.ru/upload/medialibrary/b97/b97735ac3b9e1c696c07c003a7e05c90.gif" alt="сoding" width="200"/>
+      <img src="https://i.pinimg.com/736x/b8/0d/f2/b80df2bba963dd1aeb3e3820e9aea9cc--thank-you-for.jpg" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
       Hey, there! 
@@ -11,7 +11,7 @@
     <table>
         <tr>
           <td width=200>
-            <p>:Я студентка Яндекс.Практикума. Специальность "Веб-разработчик"<p>
+            <p>Я студентка Яндекс.Практикума. Специальность "Веб-разработчик"<p>
           </td>
           <td width=100>
             <div align=center>

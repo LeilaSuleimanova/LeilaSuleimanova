@@ -66,33 +66,33 @@
           </tr>
           <tr>
             <td>
-              <details>
+              <div>
                 <summary><a href="https://github.com/LeilaSuleimanova/mesto" target="_blank">Mesto</a>
                  <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
                  <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                  <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
                 </summary>
-              </details>
+              </div>
             </td>
             <td>✅</td>
           </tr>
           <tr>
             <td>
-               <details>
+               <div>
                 <summary><a href="https://github.com/LeilaSuleimanova/russian-travel" target="_blank">Russian Travel</a></summary>
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
-              </details>
+              </div>
             </td>
             <td>✅</td>
           </tr>
           <tr>
             <td>
-              <details>
+              <div>
                 <summary><a href="https://github.com/LeilaSuleimanova/how-to-learn" target="_blank">How to learn</a></summary>
                 <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
-              </details>
+              </div>
             </td>
             <td>✅</td>
           </tr>

@@ -2,17 +2,7 @@
  <tr>
   
     
-   <p>👩‍💻 Мои контакты:<p> 
-   <div id="badges">
-      <a href="https://t.me/leyla_rosfit">
-        <img src="https://img.shields.io/badge/-LeilaSuleimanova-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-      </a>
-    </div>
-   <div id="badges" align="center">
-      <a href="mailto:leila_suleymanova@mail.ru">
-        <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Email"/>
-      </a>
-    </div>
+  
   </td>
   
   <td width=350>
@@ -45,6 +35,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>   
+      <p>👩‍💻 Мои контакты:<p> 
+   <div id="badges">
+      <a href="https://t.me/leyla_rosfit">
+        <img src="https://img.shields.io/badge/-LeilaSuleimanova-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+      </a>
+    </div>
+   <div id="badges" align="center">
+      <a href="mailto:leila_suleymanova@mail.ru">
+        <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Email"/>
+      </a>
+    </div>
   </td>
       
   <td width=250>

@@ -26,7 +26,7 @@
       </a>
     </div>
    <div id="badges" align="center">
-      <a href="mailto:leila_suleymanova@mail.ru">
+     <a href="mailto:leila_suleymanova@mail.ru">
         <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Email"/>
       </a>
     </div>
@@ -42,8 +42,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img width=40 height=40 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" **alt="NodeJS" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>  
+    <img width=80 height=110 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" />&nbsp;
+    <img width=80 height=100 src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" />  
   </td>
       
   <td width=250>

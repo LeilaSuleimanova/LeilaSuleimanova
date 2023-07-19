@@ -31,8 +31,8 @@
       </a>
     </div>
      <div id="badges" align="center">
-      <a href="vkto:https://vk.com/leyla.suleymanova">
-        <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Email"/>
+      <a href="https://vk.com/leyla.suleymanova">
+        <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="vk"/>
       </a>
     </div>
     <h3>:hammer_and_wrench: Languages and Tools:<h3>

@@ -1,12 +1,11 @@
 <table align=center>
   <td width=350>
    <div id="header" align="center">
-      <img height=200 width=300 src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" alt="сoding" width="200"/>
+      <img height=180 width=300 src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" alt="сoding" width="200"/>
     </div>
     <h1 align="center">
-     Hey, there 👋 
     </h1>
-    <p>:woman_student: Меня зовут Лейла и я начинающий фронтенд разработчик.<p> 
+    <p>:woman_student: Привет, меня зовут Лейла и я начинающий фронтенд разработчик.<p> 
     <table>
         <tr>
           <td width=200>
@@ -29,9 +28,7 @@
      <a href="mailto:leila_suleymanova@mail.ru">
         <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Email"/>
       </a>
-    </div>
-     <div id="badges" align="center">
-      <a href="https://vk.com/leyla.suleymanova">
+     <a href="https://vk.com/leyla.suleymanova">
         <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="vk"/>
       </a>
     </div>
@@ -42,8 +39,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img width=80 height=110 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" />&nbsp;
-    <img width=80 height=100 src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" />  
   </td>
       
   <td width=250>

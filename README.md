@@ -19,7 +19,7 @@
           </td>
         </tr>  
     </table>
-    <p> Мои контакты:<p> 
+    <p> Мои контакты и соц сети:<p> 
    <div id="badges" align="center">
       <a href="https://t.me/leyla_rosfit">
         <img src="https://img.shields.io/badge/-LeilaSuleimanova-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -28,6 +28,11 @@
    <div id="badges" align="center">
       <a href="mailto:leila_suleymanova@mail.ru">
         <img src="https://img.shields.io/badge/@email-black?logoColor=white&style=for-the-badge" alt="Email"/>
+      </a>
+    </div>
+     <div id="badges" align="center">
+      <a href="vkto:https://vk.com/leyla.suleymanova">
+        <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Email"/>
       </a>
     </div>
     <h3>:hammer_and_wrench: Languages and Tools:<h3>

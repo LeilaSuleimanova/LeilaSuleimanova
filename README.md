@@ -18,7 +18,7 @@
           </td>
         </tr>  
     </table>
-    <p> Мои контакты и соц сети:<p> 
+    <h3>My contacts & social networks:<h3> 
    <div id="badges" align="center">
       <a href="https://t.me/leyla_rosfit">
         <img src="https://img.shields.io/badge/-LeilaSuleimanova-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="vk"/>
       </a>
     </div>
-    <h3>:hammer_and_wrench: Languages and tools:<h3>
+    <h3>Languages and tools:<h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@
   </td>
       
   <td width=250>
-    <h3>:paperclip: My projects:<h3>
+    <h3>My projects:<h3>
       <table>
         <thead>
           <tr>

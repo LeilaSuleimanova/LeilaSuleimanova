@@ -1,7 +1,7 @@
 <table align=center>
   <td width=350>
    <div id="header" align="center">
-      <img height=180 width=300 src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" alt="сoding" width="200"/>
+<!--       <img height=180 width=300 src="https://cdn.dribbble.com/users/1850911/screenshots/3725676/hello.gif" alt="сoding" width="200"/> -->
     </div>
     <h1 align="center">
     </h1>

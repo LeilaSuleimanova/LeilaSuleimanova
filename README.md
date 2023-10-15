@@ -49,12 +49,12 @@
   <td width=250>
     <h3>My projects:<h3>
       <table>
-        <thead>
+        <head>
           <tr>
             <th>Name</th>
             <th width=50>Status</th>
           </tr>
-        </thead>
+        </head>
         <body>
           <tr>
             <td>
@@ -119,3 +119,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeilaSuleimanova&layout=compact&theme=transparent" title="streak-stats" **alt="streak-stats" width=300/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LeilaSuleimanova&theme=transparent&mode=weekly" title="streak-stats" **alt="streak-stats" height=165/>
 </div>
+        </body>

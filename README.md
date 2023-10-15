@@ -14,8 +14,7 @@
             <div align=center>
               <p>Learning progress: </p> <img src="https://progress-bar.dev/100/" alt="progress"/>
             </div>
-          </td>
-        </tr>  
+          </td></tr>  
     </table>
     <h3>My contacts & social networks:<h3> 
    <div id="badges" align="center">

@@ -46,10 +46,10 @@
     <h3>My projects:<h3>
       <table>
 <!--         <head> -->
-          <tr>
+<!--           <tr> -->
             <th>Name</th>
             <th width=50>Status</th>
-          </tr>
+<!--           </tr> -->
 <!--         </head> -->
         <body>
           <tr>

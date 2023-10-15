@@ -51,6 +51,18 @@
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <td>
+              <div>
+                <a href="https://github.com/LeilaSuleimanova/movies-explorer-frontend" target="_blank">movies-explorer-frontend</a>
+                <img src="https://img.shields.io/badge/-React-blue" alt="React"/>&nbsp;
+                <img src="https://img.shields.io/badge/-JS-yellow" alt="JS"/>&nbsp;
+                <img src="https://img.shields.io/badge/-HTML-grey" alt="HTML"/>&nbsp;
+                <img src="https://img.shields.io/badge/-CSS-white" alt="CSS"/>
+              </div>
+            </td>
+            <td>done</td>
+          </tr>
          <tr>
             <td>
               <div>

@@ -3,8 +3,7 @@
    <div id="header" align="center">
       <img height=180 width=300 src="https://images.unsplash.com/photo-1568144628871-ccbb00fc297c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aGVsbG8hfGVufDB8fDB8fHww&w=1000&q=80" alt="сoding" width="200"/>
     </div>
-    <h1 align="center">
-    </h1>
+    <h1 align="center"></h1>
     <p>👨‍💻 Привет, меня зовут Лейла и я в поиске работы фронтенд разработчика/верстальщика.<p> 
     <table>
         <tr>

@@ -43,8 +43,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/></div></td>
       
   <td width=250>
-    <h3>My projects:<h3>
-      <table>
+    <h3>My projects:<h3><table>
         <head>
           <tr>
             <th>Name</th>
